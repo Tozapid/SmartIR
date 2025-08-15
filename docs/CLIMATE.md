@@ -714,6 +714,11 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | ---------------------------------- | ---------------------- | ---------- |
 | [2400](../codes/climate/2400.json) | YAM-12KDA<br>AUS-07C53R013L24| Broadlink  |
 
+#### Yamato
+| Code                               | Supported Models       | Controller |
+| ---------------------------------- | ---------------------- | ---------- |
+| [7401](../codes/climate/7401.json) | M-HW12 | ESPHome |
+
 #### VS
 | Code                               | Supported Models       | Controller |
 | ---------------------------------- | ---------------------- | ---------- |
